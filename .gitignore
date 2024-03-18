@@ -10,3 +10,4 @@ videocapture
 
 tempstaging/*
 !tempstaging/README.md
+.github/*

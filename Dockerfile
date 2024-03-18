@@ -1,4 +1,4 @@
-FROM ubuntu:xenial-20210416
+FROM ubuntu:mantic-20240216
 
 RUN \
   apt update && apt upgrade -y && \

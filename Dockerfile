@@ -1,4 +1,4 @@
-FROM ubuntu:mantic-20240216
+FROM ubuntu:mantic-20240530
 
 RUN \
   apt update && apt upgrade -y && \
